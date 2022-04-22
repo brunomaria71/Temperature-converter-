@@ -7,4 +7,4 @@ function tempCheck(farenheit) {
 
 const newTemps = tempCheck(farenheit)
 
-console.log(newTemps); 
+console.log(newTemps);
