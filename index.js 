@@ -1,0 +1,10 @@
+const farenheit = 81
+
+function tempCheck(farenheit) {
+    const result = (farenheit - 32) * 5/9
+    return result
+}
+
+const newTemps = tempCheck(farenheit)
+
+console.log(newTemps); 
